@@ -1,0 +1,15 @@
+RevolvingUtilizationOfUnsecuredLines
+NumberOfTime30-59DaysPastDueNotWorse
+DebtRatio
+MonthlyIncome
+NumberOfOpenCreditLinesAndLoans
+NumberOfTimes90DaysLate
+NumberOfTime60-89DaysPastDueNotWorse
+NumberOfDependents
+RealEstateLoansOrLines_B
+RealEstateLoansOrLines_C
+RealEstateLoansOrLines_D
+RealEstateLoansOrLines_E
+GroupAge_c
+GroupAge_d
+GroupAge_e
