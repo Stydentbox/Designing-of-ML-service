@@ -1,0 +1,15 @@
+{
+    "SeriousDlqin2yrs": "клиент имел просрочку 90 и более дней (целевой признак)",
+    "RevolvingUtilizationOfUnsecuredLines": "общий баланс средств",
+    "age": "возраст заемщика",
+    "NumberOfTime30-59DaysPastDueNotWorse": "сколько раз за последние 2 года наблюдалась просрочка 30-59 дней",
+    "DebtRatio": "ежемесячные расходы, деленные на месячный доход",
+    "MonthlyIncome": "ежемесячный доход",
+    "NumberOfOpenCreditLinesAndLoans": "количество открытых кредитов и кредитных карт",
+    "NumberOfTimes90DaysLate": "сколько раз наблюдалась просрочка (90 и 90+)",
+    "NumberRealEstateLoansOrLines": "количество кредитов",
+    "RealEstateLoansOrLines": "закодированное количество кредитов",
+    "NumberOfTime60-89DaysPastDueNotWorse": "сколько раз за последние 2 года заемщик задержал платеж на 60-89 дней",
+    "NumberOfDependents": "количество иждивенцев на попечении",
+    "GroupAge": "закодированная возрастная группа"
+}
